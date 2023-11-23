@@ -2,7 +2,7 @@
 - 👀 I’m interested in Code, webDisign, React,js,HTML/php/css/c++/python...
 - 🌱 I’m currently learning working in my own company Soluce-Technologies
 - 💞️ I’m looking to collaborate on dev projects 
-- 📫 How to reach me Instagram: charlesgte_31 , mail: charles.guathereau@soluce-technologies.com
+- 📫 How to reach me Instagram: charlesgte_31 , mail: charlesgte31@gmail.com
 
 👨‍💻 Skills and achievements :
 
@@ -20,3 +20,6 @@ Artificial Intelligence : Deep Learning with YOLOv8 for objects detection and au
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,cs,vim,ae,ps,androidstudio,arduino,bash,html,css,js,django,electron,express,flask,github,gitlab,grafana,linux,mysql,nodejs,postman,prometheus,py,qt,raspberrypi,react,ts,vite,redux,ros" />
   </a>
 </p>
+
+![RambokDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=RambokDev&show_icons=true&theme=transparent)
+
