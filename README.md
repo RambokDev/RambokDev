@@ -6,11 +6,11 @@
 
 👨‍💻 Skills and achievements :
 
-Mobile App with React Native : interactive map with geolocalisation, marketplace with online payments (Stripe) and QR Code generation ( Trivium app ).
-Backend : API RESTful (PHP and Django), Web Sockets (PHP,Node.js, Django).
-Linux Server administration : containerization (Docker and Kubernetes).
-Robotic : integration of ROS on an intelligent agricultural robot, engine control by STM32 (STMicroelectronics), universal robot ( Ur10e with ROS ).
-Artificial Intelligence : Deep Learning with YOLOv8 for objects detection and autonomous navigation.
+- Mobile App with React Native : interactive map with geolocalisation, marketplace with online payments (Stripe) and QR Code generation ( Trivium app ).
+- Backend : API RESTful (PHP and Django), Web Sockets (PHP,Node.js, Django).
+- Linux Server administration : containerization (Docker and Kubernetes).
+- Robotic : integration of ROS on an intelligent agricultural robot, engine control by STM32 (STMicroelectronics), universal robot ( Ur10e with ROS ).
+- Artificial Intelligence : Deep Learning with YOLOv8 for objects detection and autonomous navigation.
 
 
 🛠️ Languages and Tools :
