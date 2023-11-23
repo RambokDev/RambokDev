@@ -20,6 +20,3 @@ Artificial Intelligence : Deep Learning with YOLOv8 for objects detection and au
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,cs,vim,ae,ps,androidstudio,arduino,bash,html,css,js,django,electron,express,flask,github,gitlab,grafana,linux,mysql,nodejs,postman,prometheus,py,qt,raspberrypi,react,ts,vite,redux,ros" />
   </a>
 </p>
-
-![RambokDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=RambokDev&show_icons=true&theme=transparent)
-
