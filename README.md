@@ -17,6 +17,6 @@ Artificial Intelligence : Deep Learning with YOLOv8 for objects detection and au
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,cs,vim,ae,ps,androidstudio,arduino,bash,html,css,js,django,electron,express,flash,github,gitlab,grafana,linux,mysql,nodejs,postman,prometheus,py,qt,raspberrypi,react,ts,vite,redux,ros" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,cs,vim,ae,ps,androidstudio,arduino,bash,html,css,js,django,electron,express,flask,github,gitlab,grafana,linux,mysql,nodejs,postman,prometheus,py,qt,raspberrypi,react,ts,vite,redux,ros" />
   </a>
 </p>
