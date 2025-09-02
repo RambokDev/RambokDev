@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RambokDev
-- 👀 I’m interested in Code, webDisign, React,js,HTML/php/css/c++/python...
+- 👀 I’m interested in Code, webDisign, React,js,Next.Js,HTML/php/css/c++/python...
 - 🌱 I’m currently learning working in my own company Soluce-Technologies
 - 💞️ I’m looking to collaborate on dev projects 
-- 📫 How to reach me Instagram: charlesgte_31 , mail: charlesgte31@gmail.com
+- 📫 How to reach me by mail: charles.gauthereau@soluce-technologies.com
 
 👨‍💻 Skills and achievements :
 
